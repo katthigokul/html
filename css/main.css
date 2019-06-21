@@ -1,0 +1,16 @@
+body
+{
+	background-color: #D0D3D4;
+}
+div{
+	width: 500px;
+	margin:auto;
+}
+p.pone
+{
+	text-align:center;
+	border-color:#F0F3F4 ;
+	padding: 15px;	
+	border-style: solid;
+
+}
